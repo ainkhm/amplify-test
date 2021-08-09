@@ -23,7 +23,7 @@ module.exports =
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "647c9bcf1f8c6e1129fc";
+/******/ 	var hotCurrentHash = "96beb9eb215eb1880d0f";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -807,7 +807,7 @@ module.exports =
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "http://localhost:3031/";
+/******/ 	__webpack_require__.p = "http://localhost:3001/";
 /******/
 /******/ 	// __webpack_hash__
 /******/ 	__webpack_require__.h = function() { return hotCurrentHash; };
@@ -826,7 +826,7 @@ module.exports =
 /*! exports provided: client, , default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"client\":{\"js\":\"http://localhost:3031/static/js/bundle.js\"},\"\":{\"json\":\"http://localhost:3031/../chunks.json\"}}");
+module.exports = JSON.parse("{\"client\":{\"js\":\"http://localhost:3001/static/js/bundle.js\"},\"\":{\"json\":\"http://localhost:3001/../chunks.json\"}}");
 
 /***/ }),
 
@@ -1106,7 +1106,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/App.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/App.js";
 
 
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5___default()(this, result); }; }
@@ -1315,7 +1315,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_router_dom__WEBPACK_IMPORTED_MODULE_3__);
 
 
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/c/AuthRoutes.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/c/AuthRoutes.js";
 var _excluded = ["component", "props"],
     _excluded2 = ["component", "props"],
     _excluded3 = ["component", "props"];
@@ -1476,7 +1476,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/c/Home.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/c/Home.js";
 
 
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5___default()(this, result); }; }
@@ -1692,7 +1692,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/c/Login.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/c/Login.js";
 
 
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5___default()(this, result); }; }
@@ -1842,7 +1842,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "react-router-dom");
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_router_dom__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/c/Private.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/c/Private.js";
 
 
 var Private = function Private() {
@@ -1904,7 +1904,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/c/Signup.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/c/Signup.js";
 
 
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6___default()(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5___default()(this, result); }; }
@@ -2169,7 +2169,7 @@ __webpack_require__(/*! dotenv */ "dotenv").config();
 
 var server = http__WEBPACK_IMPORTED_MODULE_1___default.a.createServer(_server__WEBPACK_IMPORTED_MODULE_0__["default"]);
 var currentApp = _server__WEBPACK_IMPORTED_MODULE_0__["default"];
-server.listen("3030" || false, function (error) {
+server.listen("3000" || false, function (error) {
   if (error) {
     console.log(error);
   }
@@ -2211,7 +2211,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _c_Private__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./c/Private */ "./src/c/Private.js");
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react-router-dom */ "react-router-dom");
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react_router_dom__WEBPACK_IMPORTED_MODULE_6__);
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/routes.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/routes.js";
 
 
 
@@ -2289,7 +2289,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var express__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(express__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var react_dom_server__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-dom/server */ "react-dom/server");
 /* harmony import */ var react_dom_server__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_dom_server__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/server.js";
+var _jsxFileName = "/Users/ainkhm/Desktop/amplify-test/src/server.js";
 
 
 
@@ -2299,7 +2299,7 @@ var _jsxFileName = "/Users/ainkhm/Desktop/amplify-razzle-starter/src/server.js";
 var assets = __webpack_require__(/*! ./build/assets.json */ "./build/assets.json");
 
 var server = express__WEBPACK_IMPORTED_MODULE_3___default()();
-server.disable('x-powered-by').use(express__WEBPACK_IMPORTED_MODULE_3___default.a["static"]("/Users/ainkhm/Desktop/amplify-razzle-starter/public")).get('/*', function (req, res) {
+server.disable('x-powered-by').use(express__WEBPACK_IMPORTED_MODULE_3___default.a["static"]("/Users/ainkhm/Desktop/amplify-test/public")).get('/*', function (req, res) {
   var context = {};
   var markup = Object(react_dom_server__WEBPACK_IMPORTED_MODULE_4__["renderToString"])( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["StaticRouter"], {
     context: context,
@@ -2334,9 +2334,9 @@ server.disable('x-powered-by').use(express__WEBPACK_IMPORTED_MODULE_3___default.
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/ainkhm/Desktop/amplify-razzle-starter/node_modules/razzle-dev-utils/prettyNodeErrors.js */"./node_modules/razzle-dev-utils/prettyNodeErrors.js");
-__webpack_require__(/*! /Users/ainkhm/Desktop/amplify-razzle-starter/node_modules/webpack/hot/poll.js?300 */"./node_modules/webpack/hot/poll.js?300");
-module.exports = __webpack_require__(/*! /Users/ainkhm/Desktop/amplify-razzle-starter/src */"./src/index.js");
+__webpack_require__(/*! /Users/ainkhm/Desktop/amplify-test/node_modules/razzle-dev-utils/prettyNodeErrors.js */"./node_modules/razzle-dev-utils/prettyNodeErrors.js");
+__webpack_require__(/*! /Users/ainkhm/Desktop/amplify-test/node_modules/webpack/hot/poll.js?300 */"./node_modules/webpack/hot/poll.js?300");
+module.exports = __webpack_require__(/*! /Users/ainkhm/Desktop/amplify-test/src */"./src/index.js");
 
 
 /***/ }),
